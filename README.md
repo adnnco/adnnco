@@ -8,7 +8,7 @@ I’m a backend-focused developer with over 10 years of experience in building c
 - Developing custom WordPress plugins & themes
 - Creating Laravel-based admin panels and APIs
 - Building SEO-friendly, performance-optimized web platforms
-- Integrating modern frontend elements (Bootstrap, jQuery)
+- Integrating modern frontend elements
 
 ---
 
@@ -24,14 +24,11 @@ I’m a backend-focused developer with over 10 years of experience in building c
 
 ### 📌 Featured Projects
 
-- **SaaS Admin Panel CMS** – Laravel-based modular backend system
-- **AI-Powered SEO Tool** – (In progress) keyword & performance analyzer
-
 🔗 [Explore my repositories](https://github.com/adnnco?tab=repositories)
 
 ---
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-gunay-18511558/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-gunay/)
 - 📬 Email: adnnco@gmail.com
